@@ -39,5 +39,3 @@
 - `Daily time slots.md` — Suggested daily schedule and short/long variants.
 - `Week 1-4.md`, `Week 5-8.md`, `Week 9-12.md`, `Week 13-16.md`, `Week 17-20.md`, `Week 20-24.md`, `Week 25-28.md`, `Week 29-32.md` — Detailed week-by-week plans.
 - `Romanian_B1_8_Month_Roadmap.pdf` — Printable roadmap.
-
----
