@@ -1,129 +1,62 @@
-## **Checkpoint 1 — End of Stage 1 (Week 4)**
-**Focus:** Foundation of pronunciation, essential vocabulary, and natural listening habits.
+# Checkpoints & Self-Evaluation
 
-**What you should be able to do now:**
-- Recognize and pronounce all Romanian sounds.
-- Understand and respond to **100–150 basic everyday expressions** without translation.
-- Follow the main idea of slow, clear audio (greetings, weather, food, daily activities).
-- Read **simple short texts** (signs, menus, short dialogues).
-- Introduce yourself and answer simple personal questions.
-
-**Mini-Test:**
-- Watch a **5-min beginner vlog** and understand 50–60% of it.
-- Describe your morning routine (5–6 sentences) without your native language.
-- Order food in Romanian without hesitation.
-
-**Reward:** Romanian snack (covrig, cozonac) or a fun travel video.
+Use these checkpoints at the end of each stage. Score each skill 0–3:
+- 0 = cannot do it
+- 1 = can do with much effort / many hesitations
+- 2 = can do with some effort / minor pauses
+- 3 = comfortable, natural, low hesitation
 
 ---
 
-## **Checkpoint 2 — End of Stage 2 (Week 8)**
-**Focus:** Expanding listening comprehension and building short conversations.
+## Checkpoint 1 — End of Stage 1 (Week 4)
+**Focus:** Pronunciation basics, 100–150 expressions, basic listening.
+**Tasks:**
+- Pronunciation: record yourself reading 10 short phrases; compare to native audio.
+- Listening: listen to a 2-3 min slow children’s clip — write a 3-line summary.
+- Speaking: 1-minute self-introduction (recorded).
+**Success:** total >= 6/9 and at least 2 in speaking and listening.
 
-**What you should be able to do now:**
-- Understand **200–300 common words** in context.
-- Follow **slightly faster speech** in simple videos.
-- Ask and answer basic “wh-” questions.
-- Read short articles or children’s stories.
-
-**Mini-Test:**
-- Have a **2–3 min conversation** with a partner or language buddy.
-- Follow the plot of a **5–8 min native video** with basic vocabulary.
-
-**Reward:** Listen to a Romanian song and look up the lyrics.
+**If you fail:** repeat Stage 1; add daily 5–10 min shadowing.
 
 ---
 
-## **Checkpoint 3 — End of Stage 3 (Week 12)**
-**Focus:** Comfortable with basic conversations and common topics.
+## Checkpoint 2 — End of Stage 2 (Week 8)
+**Focus:** 400–600 words, 1–2 min retelling.
+**Tasks:**
+- Vocabulary: test yourself on a 100-word set (picture → word).
+- Listening: understand a 3–4 min slow dialogue; answer 5 comprehension questions.
+- Speaking: 2-minute retell of a short story.
+**Success:** total >= 7/9 and vocabulary >= 60/100
 
-**What you should be able to do now:**
-- Handle **familiar everyday situations** (shopping, directions, small talk).
-- Understand 60–70% of slow to moderate spoken Romanian.
-- Read and summarize a **short story** in Romanian.
-
-**Mini-Test:**
-- Watch a **10-min vlog** and take notes in Romanian.
-- Describe a picture using at least 8 sentences in Romanian.
-
-**Reward:** Watch a short Romanian movie or episode with no subtitles.
+**If you fail:** increase SRS reviews and add daily retelling.
 
 ---
 
-## **Checkpoint 4 — End of Stage 4 (Week 16)**
-**Focus:** Moving toward confident, flowing conversation.
+## Checkpoint 3 — End of Month 3 (Week 12)
+**Focus:** 3–5 min speaking, 50–60% comprehension of slow native content.
+**Tasks:**
+- Listening: watch a short native video (no subtitles) and write main points.
+- Speaking: 4-minute answer to a common topic (work/family/hobbies).
+- Reading: read a short news article and summarize aloud.
 
-**What you should be able to do now:**
-- Discuss **past and future events** in simple terms.
-- Understand **70–80% of everyday speech** in familiar topics.
-- Read news headlines and short articles.
-
-**Mini-Test:**
-- Tell a **story from your past** (6–8 sentences).
-- Listen to a **short news clip** and summarize the topic.
-
-**Reward:** Try cooking a Romanian recipe and follow it in Romanian.
+**Success:** total >= 8/9 and speaking >= 2
 
 ---
 
-## **Checkpoint 5 — End of Stage 5 (Week 20)**
-**Focus:** Handling longer conversations and understanding more native content.
-
-**What you should be able to do now:**
-- Understand **most conversations** at normal speed on familiar topics.
-- Participate in **5–6 min conversations** without switching to your native language.
-- Read and discuss short blog posts in Romanian.
-
-**Mini-Test:**
-- Watch a **15-min video** and retell it in Romanian.
-- Debate a simple topic (travel, hobbies) with a partner.
-
-**Reward:** Buy a Romanian book or magazine you find interesting.
+## Checkpoint 4 — Pre-B1 (Week 24)
+**Focus:** Paragraph-level production, 8–10 min continuous speech.
+**Tasks:** Mock B1-style tasks (opinion essay 120–150 words, 10-minute spontaneous talk).
+**Success:** 9–12/12 depending on task detail.
 
 ---
 
-## **Checkpoint 6 — End of Stage 6 (Week 24)**
-**Focus:** B1 readiness — fluent in familiar contexts.
-
-**What you should be able to do now:**
-- Follow conversations and media at **near-native speed** on familiar topics.
-- Express opinions and explain reasons.
-- Read medium-length articles and short stories with minimal help.
-
-**Mini-Test:**
-- Take a **mock B1 listening test**.
-- Have a **10-min conversation** with a native speaker.
-
-**Reward:** Watch a full Romanian movie without subtitles.
+## How to log results
+Keep a short CSV or notebook with: date, checkpoint, listening score, speaking score, reading score, vocabulary recall number, notes.
 
 ---
 
-## **Checkpoint 7 — End of Stage 7 (Week 28)**
-**Focus:** Polishing skills and handling unfamiliar situations.
+## If a checkpoint fails
+1. Identify weakest skill(s).
+2. Add targeted micro-sessions (15–20 min daily) for 2 weeks.
+3. Re-test after two weeks.
 
-**What you should be able to do now:**
-- Manage conversations with unexpected vocabulary by using paraphrase.
-- Understand **80–90%** of most native content.
-- Summarize long audio or video in Romanian.
-
-**Mini-Test:**
-- Simulate a **citizenship interview** in Romanian.
-- Explain a news story to someone else in Romanian.
-
-**Reward:** Visit a Romanian cultural event (online or in person).
-
----
-
-## **Checkpoint 8 — End of Stage 8 (Week 32)**
-**Focus:** Full B1 confidence.
-
-**What you should be able to do now:**
-- Communicate naturally in all everyday situations.
-- Understand **most TV shows, YouTube videos, and radio broadcasts**.
-- Speak about abstract topics (opinions, dreams, comparisons).
-
-**Mini-Test:**
-- Pass a **full B1 mock exam** (speaking, listening, reading).
-- Give a **3–4 min presentation** in Romanian.
-
-**Reward:** Celebrate! Book your citizenship test knowing you’re prepared.
