@@ -62,7 +62,7 @@
 
 ## WEEKLY REVIEW LOOP
 - Keep **Day 1 → Day 3 → Day 7 → Day 30** review cycle.
-- Keep image-based SRS slides — by now you’ll have 150–200 images.
+- Keep image-based SRS slides — by now you’ll have 150–200, 4938 images.
 - When reviewing, close eyes and **visualize the scene** while saying the phrase.
 
 ---
