@@ -1,151 +1,163 @@
-# 🇷🇴 Romanian B1 Roadmap — 6 Months (No Translation)
+# 🇷🇴 Romanian B1 Roadmap — 8 Months
 
-## Philosophy
-- Learn naturally — **no direct translation**.
-- Comprehension + speaking first, grammar via patterns.
-- Use **listening, reading, and speaking daily**.
-- **4 daily sessions** (total ~2h), no skipping days.
-- Use **SRS with images/phrases** (no Anki-type apps).
-- Time slots:  
-  **08:00–08:30** | **13:30–14:00** | **18:00–19:00** | **21:30–22:00**
+**Daily Time Slots**
+- **08:00–08:30 AM** — Morning immersion
+- **13:30–14:00 PM** — Midday reading/listening
+- **18:00–19:00 PM** — Main study/practice session
+- **21:30–22:00 PM** — Evening wrap-up
 
 ---
 
-## Stage 1 — Weeks 1–4 (Foundation)
-**Goal:** Understand & use ~500 core words, basic daily expressions.
+## Stage 1 — Weeks 1–4 (Foundation & Ear Training)
+**Focus:** Get familiar with sounds, basic phrases, and high-frequency vocabulary.
 
-### 08:00–08:30 — Listening + Shadowing
-- Kids’ shows, slow news (TVR Junior, Radio Romania Cultural).
-- Listen once → shadow speech.
+**08:00–08:30 AM — Listening Warm-up**
+- Listen to Romanian podcasts for learners (e.g., “RomanianPod101”).
+- Focus on pronunciation and rhythm.
 
-### 13:30–14:00 — Reading + Listening Match
-- Short illustrated stories (carti pentru copii online).
-- Listen to audio while following text.
+**13:30–14:00 PM — Visual Vocabulary**
+- Use image-based SRS decks (no translation) from free Memrise community courses.
+- Aim: 10–15 new words daily.
 
-### 18:00–19:00 — Deep Session
-- Watch 10–15 min beginner YouTube series.
-- Shadow and mimic pronunciation.
-- Retell with gestures.
+**18:00–19:00 PM — Input-Heavy Session**
+- Watch Romanian children’s shows or slow news (TVR1 “Telejurnal” for kids).
+- Write down 5 expressions you hear.
 
-### 21:30–22:00 — Light Review
-- Passive listening to songs or short podcasts.
-- SRS 5–8 image-based cards.
+**21:30–22:00 PM — Passive Exposure**
+- Listen to soft Romanian music or slow podcasts before sleep.
 
 ---
 
-## Stage 2 — Weeks 5–8 (Expansion)
-**Goal:** Reach 800–1000 words, basic conversations on familiar topics.
+## Stage 2 — Weeks 5–8 (Building Blocks)
+**Focus:** Understand simple dialogues, start short spoken responses.
 
-### 08:00–08:30
-- 5–7 min slow news / vlogs (Digi24 Easy Romanian).
-- Focus on gist, not detail.
+**08:00–08:30 AM — Listening + Shadowing**
+- Short dialogues from YouTube (“Dialoguri în limba română”).
+- Repeat after speakers.
 
-### 13:30–14:00
-- Read easy news, short blog posts.
-- Highlight repeating patterns.
+**13:30–14:00 PM — Contextual Vocabulary**
+- Learn new words via pictures + example sentences.
+- Practice recalling without translation.
 
-### 18:00–19:00
-- Watch 12–15 min vlog/documentary.
-- Break into segments, shadow, retell.
+**18:00–19:00 PM — Story Listening**
+- Listen to slow audiobooks (children’s stories).
+- Retell the story in simple words.
 
-### 21:30–22:00
-- Relaxed podcast / audiobook.
-- Mental “day in Romanian” monologue.
-
----
-
-## Stage 3 — Weeks 9–12 (Stability)
-**Goal:** Hold 4–5 min conversations, understand 70%+ familiar speech.
-
-### 08:00–08:30
-- Switch to unscripted talk shows / interviews.
-- Write 3–4 key expressions.
-
-### 13:30–14:00
-- Read local news articles; retell in own words.
-
-### 18:00–19:00
-- Mix of roleplay tasks (shopping, directions, explaining).
-- Longer videos (15+ min) without stopping.
-
-### 21:30–22:00
-- Passive listening + light SRS review.
+**21:30–22:00 PM — Light Wrap-up**
+- Watch 5–10 min vlog clips with gestures/visual clues.
 
 ---
 
-## Stage 4 — Weeks 13–16 (Acceleration)
-**Goal:** Speak for 6–7 min, follow faster speech.
+## Stage 3 — Weeks 9–12 (Transition to Native Input)
+**Focus:** Move from learner content to authentic native materials.
 
-### 08:00–08:30
-- News at native speed.
-- Note 5–6 words and recall context.
+**08:00–08:30 AM — Native Short Clips**
+- Watch 2–3 min Romanian YouTube clips (recipes, travel).
+- Don’t pause — just follow main ideas.
 
-### 13:30–14:00
-- Opinion pieces → summarize + counter-argument.
+**13:30–14:00 PM — Targeted Reading**
+- Read short news articles.
+- Highlight useful chunks (expressions, not isolated words).
 
-### 18:00–19:00
-- Roleplays with complex tasks (“argue for/against an idea”).
-- Retell long videos.
+**18:00–19:00 PM — Speaking Push**
+- Record yourself describing a picture or video.
+- Compare with native speech.
 
-### 21:30–22:00
-- Background listening while doing chores.
-- Narrate your day.
-
----
-
-## Stage 5 — Weeks 17–20 (Consolidation)
-**Goal:** 90%+ comprehension of familiar topics, 8–10 min speech.
-
-### 08:00–08:30
-- Magazine news shows or street interviews.
-- First listen eyes closed, second with video.
-
-### 13:30–14:00
-- Short commentaries, focus on connectors.
-- Retell argument.
-
-### 18:00–19:00
-- Listening challenges + shadowing.
-- Opinion debates, past narration.
-
-### 21:30–22:00
-- Light passive listening + SRS.
-- “Day in review” monologue.
+**21:30–22:00 PM — Light Listening**
+- Casual vlog or music lyrics.
 
 ---
 
-## Stage 6 — Weeks 21–24 (B1 Readiness)
-**Goal:** Pass B1 oral/listening confidently.
+## Stage 4 — Weeks 13–16 (Complexity & Comfort)
+**Focus:** Handle less predictable topics.
 
-### 08:00–08:30
-- Full news/interview clips at speed.
-- Recall 5 keywords & details.
+**08:00–08:30 AM — Mixed Listening**
+- Alternate radio segments and interview clips.
 
-### 13:30–14:00
-- Opinion-heavy articles → summarize & counter.
+**13:30–14:00 PM — Thematic Reading**
+- Pick a theme per week (e.g., Romanian traditions).
 
-### 18:00–19:00
-- Simulate full B1 tasks:
-  - Picture description
-  - Roleplays
-  - Monologues under time limit
+**18:00–19:00 PM — Conversation Practice**
+- 3x/week: Language exchange.
+- 2x/week: Describe past events in detail.
 
-### 21:30–22:00
-- Relaxed listening + final SRS review.
-- Narrate an event from your day.
+**21:30–22:00 PM — Relax & Review**
+- Watch something fun entirely in Romanian.
 
 ---
 
-## Weekly Review Routine
-- Keep SRS image-based review:  
-  W1–4: ~100 cards → W21–24: ~300–400 cards.
-- Record speaking once/week → listen & self-correct.
-- Keep some **fun input** (YouTube, comedy) to stay motivated.
+## Stage 5 — Weeks 17–20 (Active Recall & Speed)
+**Focus:** Speak and think in Romanian without translation.
+
+**08:00–08:30 AM — Quick Listening Bursts**
+- 3x 3–4 min audio clips.
+
+**13:30–14:00 PM — Vocabulary Refresh**
+- Revisit old SRS sets and remove weak cards.
+
+**18:00–19:00 PM — Extended Conversation**
+- 15–20 min spontaneous talk with a partner.
+
+**21:30–22:00 PM — Podcast Wind-down**
+- Listen to casual talk shows.
 
 ---
 
-## Final Notes
-- Don’t obsess over grammar tables — patterns will stick naturally.
-- Background listening during daily tasks adds up.
-- Speak **daily**, even to yourself — silence is the enemy of fluency.
-- At B1, perfection isn’t the goal: **clear communication is**.
+## Stage 6 — Weeks 21–24 (Pre-B1 Readiness)
+**Focus:** B1 exam-style tasks.
+
+**08:00–08:30 AM — Listening Comprehension**
+- Watch 5–8 min reports and summarize orally.
+
+**13:30–14:00 PM — Reading for Gist**
+- Read articles quickly and extract main points.
+
+**18:00–19:00 PM — Exam Simulation**
+- Practice describing images, answering questions.
+
+**21:30–22:00 PM — Light Review**
+- Review phrases collected during the day.
+
+---
+
+## Stage 7 — Weeks 25–28 (Fluency Consolidation)
+**Focus:** Transition from study mode to living in Romanian.
+
+**08:00–08:30 AM — Native-speed Immersion**
+- TVR1 Morning News or street interviews.
+- Goal: Understand 80% without pausing.
+
+**13:30–14:00 PM — Targeted Reading**
+- One topic per week, retell immediately.
+
+**18:00–19:00 PM — Extended Conversation Practice**
+- Roleplay daily life scenarios.
+- 3x/week language exchange.
+
+**21:30–22:00 PM — Relaxed Wrap-up**
+- Listen to a favorite Romanian podcast.
+
+---
+
+## Stage 8 — Weeks 29–32 (Pre-B1 Test Simulation & Comfort Phase)
+**Focus:** Confidence & real-life readiness.
+
+**08:00–08:30 AM — High-speed Listening**
+- Watch debates/interviews, summarize in 60 sec.
+
+**13:30–14:00 PM — Mixed Input**
+- Alternate reading summaries and radio recall.
+
+**18:00–19:00 PM — B1 Test Simulation**
+- Oral exam tasks + citizenship Q&A practice.
+
+**21:30–22:00 PM — Light Closure**
+- Watch favorite Romanian YouTuber.
+- Reuse 3 expressions before bed.
+
+---
+
+**🎯 Final Outcome after 8 Months:**
+- Understand ~90% of everyday Romanian without subtitles.
+- Hold 10–15 min conversations on familiar topics without hesitation.
+- Confidently handle a B1 oral exam and citizenship interview.
