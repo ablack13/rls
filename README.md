@@ -1,123 +1,144 @@
-# 📅 8-Month Romanian B1 Roadmap
+# 🇷🇴 8-Month Romanian B1 Plan — Full No-Translation Approach
 
-## 🎯 Overall Approach
-- **Goal**: Reach Romanian B1 in 6–8 months
-- **Method**: Natural acquisition (Comprehensible Input + light speaking), no heavy grammar drills
-- **Daily Study Time**: ~2.5 hours, split into 4 sessions
-- **Key Tools**: Notebook for vocabulary & grammar-by-example, YouTube playlists, free e-books & audiobooks
+---
+
+## 🎯 Key Rules
+1. **No direct translation** — words are learned from pictures, sounds, context.
+2. **Monolingual input only** — videos, audio, and text are all in Romanian.
+3. **Grammar from context** — patterns are noticed, not memorized.
+4. **Repetition without boredom** — revisit old materials in cycles.
+5. **Daily exposure** — 4 sessions, total ~2.5h per day.
 
 ---
 
 ## 📆 Month-by-Month Focus
 
-### **Month 1 – Foundation & Sound Immersion**
-- Learn the **Romanian alphabet** & sounds
-- Start building **core vocabulary** (~300–500 words)
-- Focus on **slow, clear speech** content
-- Begin shadowing simple sentences
-
-### **Month 2 – High-Frequency Vocabulary & Short Conversations**
-- Grow to **700–800 words**
-- Start forming short sentences about yourself
-- Mix in children’s stories + slow news
-- Light speaking: describe your day
-
-### **Month 3 – Listening Comfort & Sentence Expansion**
-- Vocabulary target: **1000–1200 words**
-- Begin handling short dialogues in listening
-- Focus on “connector” words (pentru că, dar, atunci, după)
-- Continue shadowing + start paraphrasing
-
-### **Month 4 – Input Complexity & First Spontaneous Speech**
-- Vocabulary: **1500 words**
-- Listen to faster podcasts & short vlogs
-- Speak 3–5 min on a topic without notes
-- Light grammar pop-ups (past tense, future)
-
-### **Month 5 – Fluidity & Comprehension Depth**
-- Vocabulary: **1800–2000 words**
-- Understand gist of TV shows with subs
-- Write short messages & paragraphs daily
-
-### **Month 6 – Real-Life Scenarios & B1 Tasks**
-- Practice explaining, comparing, giving opinions
-- Simulate everyday situations (ordering food, travel)
-- Speak 5–10 min without major pauses
-
-### **Month 7–8 – Solidify & Test Prep**
-- Consolidate vocabulary
-- Do B1-style listening/reading practice tests
-- Converse for 15 min with minimal hesitation
-- Focus on weaker areas (speaking or listening gaps)
+### **Month 1–2: Foundation Through Comprehensible Input**
+- **Goal:** Understand ~400–600 common words through stories, images, daily objects.
+- **Main method:** Picture + sentence pairing.
+- **Listening:**  
+  - Watch *children’s cartoons* with clear visuals (BookBox Romanian, Disney dubbed in Romanian on YouTube).
+  - Listen to slow, clear stories while looking at images.
+- **Reading:**  
+  - Simple picture books (*Punguța cu doi bani*, *Capra cu trei iezi*).
+  - Label objects in your home with Romanian words (no English).
+- **Speaking:**  
+  - Repeat phrases from videos (shadowing).
+  - Describe objects around you in Romanian.
 
 ---
 
-## 🕒 Daily Schedule Template
+### **Month 3–4: Expanding Contexts**
+- **Goal:** Understand the main idea of short native videos without subs.
+- **Listening:**  
+  - Watch lifestyle vlogs with strong visuals (cooking, travel, daily routines).
+  - Rewatch the same video across several days (Day 1 → Day 3 → Day 7 → Day 30).
+- **Reading:**  
+  - Short illustrated news summaries from easy sources (RoKids, kid-friendly news blogs).
+  - Begin graded readers in Romanian with pictures.
+- **Speaking:**  
+  - Retell stories from your listening in your own words.
+  - Speak for 3–5 minutes about your day without prep.
+
+---
+
+### **Month 5–6: Independent Understanding**
+- **Goal:** Follow normal-speed conversations on familiar topics.
+- **Listening:**  
+  - TVR Cultural shows (documentaries, interviews with clear visuals).
+  - Podcasts with clear structure (*Pe Bune*, *România, te iubesc!* segments).
+- **Reading:**  
+  - Short news articles with accompanying photos.
+  - Continue with illustrated short stories for new vocab.
+- **Speaking:**  
+  - Give opinions on topics (weather, food, hobbies).
+  - Storytelling about past events.
+
+---
+
+### **Month 7–8: B1 Level Mastery**
+- **Goal:** Watch most videos for fun, understand debates/news, speak comfortably.
+- **Listening:**  
+  - Reality TV, talk shows, debates — with strong visual or situational cues.
+  - Movies in Romanian (first with Romanian subtitles, then without).
+- **Reading:**  
+  - Longer news articles, blogs, and simple novels with occasional illustrations.
+- **Speaking:**  
+  - Discuss pros and cons, compare things, explain processes.
+  - Simulate B1 oral exam tasks.
+
+---
+
+## 🕒 Daily Schedule Template (No Translation)
 
 ### **Session 1 – Morning (25–30 min) – Listening + Shadowing**
-1. Choose a short Romanian video with **Romanian subtitles**
-2. Watch **without subtitles** (first exposure)
-3. Watch again **with subtitles**
-4. Shadow (repeat out loud) phrases immediately after hearing them
+- Choose 1 short video with **clear visual support** (BookBox, vlog).
+- Watch without subtitles → watch again with Romanian subtitles.
+- Repeat sentences aloud exactly as you hear them.
 
 ---
 
-### **Session 2 – Lunch Break (25–30 min) – Reading + Light Vocab Review**
-1. Read a short text (children’s story, news snippet, graded reader)
-2. Write down 5–8 new words in your notebook
-3. Review notebook entries from the past 2–3 days
+### **Session 2 – Lunch Break (25–30 min) – Reading + Noticing**
+- Read an illustrated short text.
+- Point to the picture and say the sentence aloud.
+- Circle/underline repeated words you’ve seen in previous texts.
 
 ---
 
 ### **Session 3 – After Work (60 min) – Deep Listening-Reading**
-1. **20 min**: Listen to audio with transcript (audiobook, podcast, YouTube)
-2. **20 min**: Read the same material without audio
-3. **20 min**: Listen again without text (visualize the words)
+1. **20 min**: Listen to an audiobook while looking at the illustrations or imagining the scenes.
+2. **20 min**: Read the same section aloud.
+3. **20 min**: Listen again without text, visualizing the meaning.
 
 ---
 
 ### **Session 4 – Before Sleep (25–30 min) – Review + Speaking**
-1. Review notebook entries from the past week
-2. Speak out loud for 5–10 min (describe your day, tell a story)
-3. Passive listening (podcast, radio) while relaxing
+- Look at a few pages from your illustrated book.
+- Speak about them freely without looking at the text.
+- End with passive listening to Romanian radio or a podcast.
 
 ---
 
-## 📚 Core Free Resources
+## 📚 Core Free Resources (No Translation)
 
-### **Listening & Video**
-- [Learn Romanian with Nico](https://www.youtube.com/@LearnRomanianWithNico) – Clear explanations + slow speech
-- [BookBox Romanian Stories](https://www.youtube.com/playlist?list=PL9zsUmx6GvRMJQIlNjgkHYjTgwdQKtu7f) – Animated stories with subtitles
-- [Radio România Actualități](https://www.radioromania.ro/) – News & talk shows
-- [TVR Cultural](https://www.tvr.ro/) – Romanian TV programs
+### **Stories & Cartoons**
+- [BookBox Romanian](https://www.youtube.com/playlist?list=PL9zsUmx6GvRMJQIlNjgkHYjTgwdQKtu7f)
+- Romanian-dubbed Disney/Pixar clips on YouTube (search: “dublat în română”)
+- *Punguța cu doi bani* — Ion Creangă (YouTube animations)
 
-### **Reading**
-- [Project Gutenberg – Romanian](https://www.gutenberg.org/browse/languages/ro) – Free e-books
-- [Global Voices Romanian](https://ro.globalvoices.org/) – News & opinion articles
-- [BookBox Stories](https://www.youtube.com/playlist?list=PL9zsUmx6GvRMJQIlNjgkHYjTgwdQKtu7f)
+### **Visual News**
+- [Știri pe scurt TVR](https://tvr.ro/) (watch with visuals)
+- [Radio România Actualități](https://www.radioromania.ro/) — for passive listening
 
-### **Audiobooks**
-- [Librivox Romanian](https://librivox.org/) – Public domain audiobooks
-- [Audiocarte.ro](https://www.audiocarte.ro/) – Free Romanian audiobooks
-
-### **Dictionaries**
-- [DEX Online](https://dexonline.ro/) – Romanian dictionary
-- [WordReference Romanian-English](https://www.wordreference.com/roen/)
+### **Audiobooks with Pictures**
+- [Audiocarte.ro](https://www.audiocarte.ro/) — some children’s audiobooks with illustrations
+- [Librivox Romanian](https://librivox.org/) — public domain stories
 
 ---
 
-## 🔄 Natural SRS Without Anki
-- Day 1 → New content
-- Day 3 → Revisit content briefly
-- Day 7 → Review again
-- Day 30 → Review again
-- Use YouTube playlists “New,” “Review Soon,” “Old Favorites” for cycling content
+## 🔄 Spaced Review Without Translation
+- Day 1 → Watch/read/listen new material.
+- Day 3 → Rewatch/reliten.
+- Day 7 → Repeat.
+- Day 30 → Return to it.
+- Keep **3 playlists**: `Nou`, `De revăzut`, `Preferate`.
 
 ---
 
-## ✅ Progress Checkpoints
-- **Month 2** → Understand 50–60% of slow spoken Romanian
-- **Month 4** → Hold basic conversations about everyday life
-- **Month 6** → Understand the gist of TV/radio without subs
-- **Month 8** → Pass B1 practice tasks comfortably
+## 🎯 Checkpoints
 
+**Month 2:**  
+- Understand 50–60% of slow, visual-supported speech.
+- Name 400–600 items without English help.
+
+**Month 4:**  
+- Follow short native videos without subtitles, understand main points.
+- Speak 3–5 min about familiar topics.
+
+**Month 6:**  
+- Understand gist of normal-speed shows on familiar topics.
+- Speak in short paragraphs without long pauses.
+
+**Month 8:**  
+- Watch most TV/YouTube for enjoyment.
+- Converse 15+ min with minimal hesitation.
