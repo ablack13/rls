@@ -1,105 +1,74 @@
-# 🇷🇴 Romanian Plan — Weeks 1–4 (No-Translation, Fixed Schedule)
+# Weeks 1–4 – Romanian Natural Learning Plan (No Translation)
+
+## Week 1 — “Capra cu trei iezi” (The Goat and Her Three Kids)
+**Main Story Link**: [Capra cu trei iezi – Poveste pentru copii (video)](https://www.youtube.com/watch?v=4gVDf_U-VEk)  
+*(Title in Romanian, children’s story with clear pronunciation)*
+
+**Daily Schedule:**
+- **8:00–8:30 AM (Listening immersion)**  
+  Watch/listen to the main story. First days just listen, later start shadowing the narrator.  
+  Goal: By Day 7, follow along with ~80% of sentences.
+
+- **1:30–2:00 PM (Light reading/visual input)**  
+  Day 1–2: [Capra cu trei iezi – Text with illustrations](https://www.twinkl.com/teaching-wiki/capra-cu-trei-iezi)
+  Day 3–4: [Animale domestice – Kids vocabulary video](https://www.youtube.com/watch?v=WWt0o5ysihM)  
+  Day 5–7: [Culorile în română – Kids song](https://www.youtube.com/watch?app=desktop&v=NO09mCQa4Cw)
+
+- **6:00–7:00 PM (Speaking/shadowing)**  
+  Play the main story again, pause after each sentence, repeat aloud. Focus on rhythm and melody.
+
+- **9:30–10:00 PM (Review & relax)**  
+  Day 1–3: [Sa invatam cu Morcovel - Alfabetul](https://www.youtube.com/watch?v=quBtJh4kXvk)  
+  Day 4–5: [Simple bedtime story in Romanian](https://www.youtube.com/watch?v=GiMt3v8ZJZ0)  
+  Day 6–7: [Kids song – "Un elefant se legăna"](https://www.youtube.com/watch?v=9DjhFbIbHVM)
 
 ---
 
-## Week 1 — Immersion Start
+## Week 2 — “Scufița Roșie” (Little Red Riding Hood)
+**Main Story Link**: [Scufița Roșie – Poveste animată pentru copii](https://www.youtube.com/watch?v=EzpSA9X8pc8)
 
-**8:00–8:30 AM — Listening + Shadowing**
-- Day 1–3: BookBox Romanian — “Povestea lui Leo, leul” (YouTube)
-- Day 4–6: BookBox Romanian — “Povestea elefantului Bobo”
-- Day 7: Review favorite video, shadow 5 lines
-
-**1:30–2:00 PM — Reading + Noticing**
-- Day 1–3: *Peppa Pig în limba română* (episode screenshots printed or paused)
-- Day 4–6: *Radio România Junior* short stories — “O zi la fermă”
-- Day 7: Go back to all pictures from the week, retell in Romanian
-
-**6:00–7:00 PM — Deep Listening-Reading Block**
-- 15 min listen: *Povești pentru copii* (YouTube playlist)
-- 15 min read aloud: same story text (from captions)
-- 15 min listen again without text
-- 10 min retell
-- 5 min image review from earlier sessions
-
-**9:30–10:00 PM — Review + Speaking**
-- Describe 3 pictures from today’s materials
-- Passive listening: *Kiss FM România* or *Europa FM* slow talk segment
+**Daily Schedule:**
+- **8:00–8:30 AM** — Main story listening, start shadowing after Day 3.  
+- **1:30–2:00 PM**:  
+  Day 1–2: [Scufița Roșie – Text with pictures](https://www.povesti-pentru-copii.com/scufita-rosie/)  
+  Day 3–4: [Fruits in Romanian – Kids vocabulary](https://www.youtube.com/watch?v=vT4hHW1cX7I)  
+  Day 5–7: [Family members in Romanian – Kids lesson](https://www.youtube.com/watch?v=GvT9htV58sg)  
+- **6:00–7:00 PM** — Speaking/shadowing main story.  
+- **9:30–10:00 PM**:  
+  Day 1–3: [Kids cartoon: Aventurile lui Dodo](https://www.youtube.com/watch?v=0Dg_baO82N0)  
+  Day 4–5: [Bedtime story: Ursul păcălit de vulpe](https://www.youtube.com/watch?v=6YtuNIRy2f4)  
+  Day 6–7: [Song – "Alunelu, alunelu"](https://www.youtube.com/watch?v=1AQG5GKnUDM)
 
 ---
 
-## Week 2 — Building Core Vocabulary
+## Week 3 — “Punguța cu doi bani” (The Purse with Two Coins)
+**Main Story Link**: [Punguța cu doi bani – Poveste pentru copii](https://www.youtube.com/watch?v=rVfAoYFyzWc)
 
-**8:00–8:30 AM**
-- Day 1–3: BookBox Romanian — “Prințul cel Fericit”
-- Day 4–6: BookBox Romanian — “Găina care a vrut să zboare”
-- Day 7: Review + shadow
-
-**1:30–2:00 PM**
-- Day 1–3: *Povestiri cu Ilustrații* — “La piață”
-- Day 4–6: *Peppa Pig în limba română* — “La parc”
-- Day 7: Retell from memory
-
-**6:00–7:00 PM**
-- 15 min listen: “Scufița Roșie” audiobook (Română)
-- 15 min read aloud: same story PDF
-- 15 min listen no text
-- 10 min retell
-- 5 min image SRS review
-
-**9:30–10:00 PM**
-- Describe your day in Romanian
-- Passive listening: *Podcastul de Istorie* slow intro
+**Daily Schedule:**
+- **8:00–8:30 AM** — Main story listening, shadowing from Day 3.  
+- **1:30–2:00 PM**:  
+  Day 1–2: [Punguța cu doi bani – Illustrated text](https://www.povesti-pentru-copii.com/punguta-cu-doi-bani/)  
+  Day 3–4: [Animals – Kids vocabulary](https://www.youtube.com/watch?v=obpj-Z9fmxg)  
+  Day 5–7: [Numbers 1–20 – Song](https://www.youtube.com/watch?v=JkQ6R04AGbk)  
+- **6:00–7:00 PM** — Speaking/shadowing main story.  
+- **9:30–10:00 PM**:  
+  Day 1–3: [Kids cartoon: Aventurile lui Năzdrăvanu](https://www.youtube.com/watch?v=yLeLXpu8hAw)  
+  Day 4–5: [Bedtime story: Fata babei și fata moșneagului](https://www.youtube.com/watch?v=KNk1DD7is_I)  
+  Day 6–7: [Song – "Podul de piatră"](https://www.youtube.com/watch?v=ED3h8-5F3X4)
 
 ---
 
-## Week 3 — More Natural Conversations
+## Week 4 — “Fata babei și fata moșneagului” (The Old Woman’s Daughter and the Old Man’s Daughter)
+**Main Story Link**: [Fata babei și fata moșneagului – Poveste animată](https://www.youtube.com/watch?v=KNk1DD7is_I)
 
-**8:00–8:30 AM**
-- Day 1–3: BookBox Romanian — “Cei trei purceluși”
-- Day 4–6: BookBox Romanian — “Jack și vrejul de fasole”
-- Day 7: Review
-
-**1:30–2:00 PM**
-- Day 1–3: Easy illustrated recipe video (e.g., *Cum să faci clătite* in Romanian)
-- Day 4–6: Illustrated news story — *Radio România Junior*
-- Day 7: Retell
-
-**6:00–7:00 PM**
-- Listen + read + listen: “Albă-ca-Zăpada” audiobook & PDF
-- Retell main events without text
-- 5 min old materials review
-
-**9:30–10:00 PM**
-- Story from memory + passive listening: *RRA Cultural*
-
----
-
-## Week 4 — Stronger Comprehension
-
-**8:00–8:30 AM**
-- Day 1–3: BookBox Romanian — “Regele Midas”
-- Day 4–6: BookBox Romanian — “Frumoasa și Bestia”
-- Day 7: Review
-
-**1:30–2:00 PM**
-- Day 1–3: *Peppa Pig* — “O zi ploioasă”
-- Day 4–6: Easy vlog — *Viața la țară în România* (simple rural life videos)
-- Day 7: Retell
-
-**6:00–7:00 PM**
-- Listen + read + listen: “Hansel și Gretel” audiobook & PDF
-- Retell main events
-- 5 min old materials review
-
-**9:30–10:00 PM**
-- Talk about one story from the week
-- Passive listening: slow talk from *Europa FM*
-
----
-
-### 📌 Notes
-- All “BookBox Romanian” and “Povești pentru copii” are free on YouTube.
-- For PDFs, you can often find them by searching `povesti pdf limba română copii`.
-- Keep a simple illustrated notebook — no English, just Romanian word + drawing.
-- Shadow daily — copy rhythm, not just words.
-- Never translate, only guess from context.
+**Daily Schedule:**
+- **8:00–8:30 AM** — Main story listening, shadowing from Day 3.  
+- **1:30–2:00 PM**:  
+  Day 1–2: [Illustrated text of the story](https://www.povesti-pentru-copii.com/fata-babei-si-fata-mosneagului/)  
+  Day 3–4: [Vegetables in Romanian – Kids vocabulary](https://www.youtube.com/watch?v=4rthKBg4qRU)  
+  Day 5–7: [Seasons – Kids song](https://www.youtube.com/watch?v=58TQPyMjk3Q)  
+- **6:00–7:00 PM** — Speaking/shadowing main story.  
+- **9:30–10:00 PM**:  
+  Day 1–3: [Kids cartoon: Aventurile lui Dodo](https://www.youtube.com/watch?v=0Dg_baO82N0)  
+  Day 4–5: [Bedtime story: Păcală](https://www.youtube.com/watch?v=xIHbOaCGXY4)  
+  Day 6–7: [Song – "Melc, melc, codobelc"](https://www.youtube.com/watch?v=y6gP2iHHOdw)
