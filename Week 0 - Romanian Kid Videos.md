@@ -65,3 +65,8 @@ Pick one for each slot:
 - Comfortable hearing Romanian for short periods.
 - Recognition of 15–30 recurring sounds/phrases (without translation).
 - Ability to shadow very short chunks of speech with improved prosody.
+
+
+Can be used:
+https://www.youtube.com/watch?v=oFe-smTAs6A&list=PLbHu5-ZT16ptv8uq5G37GXzgy-EC8X-ie&index=54 (about avion, vapor, tren)
+https://www.youtube.com/watch?v=HDMS3nm-hmk&list=PLbHu5-ZT16ptv8uq5G37GXzgy-EC8X-ie&index=53
